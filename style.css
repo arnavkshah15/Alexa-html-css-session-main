@@ -1,0 +1,62 @@
+body{
+    background-image: url("/Media/media.png");
+    background-size: 150%;
+    font-family: sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+}
+.logo{
+    width: 48px;
+}
+.menu{
+    display: flex;
+}
+.menu > li{
+    list-style: none;
+    padding: 10px;
+}
+.menu > li:hover{
+    font-weight: 600;
+}
+.main{
+padding: 100px 20px;
+}
+.b{
+font-size: 100px;
+font-weight: bold;
+line-height: 0%;
+}
+.a{
+    font-size: 70px;
+    line-height: 0%;
+ 
+}
+.c{
+    font-size: 20px;
+    line-height: 0%;
+   
+}
+.mainn{
+    display: flex;
+    padding-top: 20px;
+}
+.d{
+    padding: 10px 20px;
+    line-height: 10px;
+}
+.d:hover{
+background-color: black;
+color: white;
+}
+.e{
+    padding: 10px 20px;
+    line-height: 10px;
+}
+.e:hover{
+text-decoration: underline;
+}
+
