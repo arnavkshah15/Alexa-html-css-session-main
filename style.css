@@ -47,16 +47,14 @@ line-height: 0%;
 .d{
     padding: 10px 20px;
     line-height: 10px;
-}
-.d:hover{
-background-color: black;
+    background-color: black;
 color: white;
 }
+
 .e{
     padding: 10px 20px;
     line-height: 10px;
+    text-decoration: underline;
 }
-.e:hover{
-text-decoration: underline;
-}
+
 
